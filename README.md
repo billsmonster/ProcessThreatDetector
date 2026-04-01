@@ -145,11 +145,7 @@ sentinel_scan.log
 process_scan_report_*.pdf
 ```
 
----
 
-##  Source Code
-
-Based on your implementation:
 
 
 
